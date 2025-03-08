@@ -29112,7 +29112,7 @@ PrefabInstance:
     - target: {fileID: 5086737145682715147, guid: 32ed7bdf42f375f4594fa6e1e5695e3e,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 10.40234
+      value: 8.804228
       objectReference: {fileID: 0}
     - target: {fileID: 5086737145682715147, guid: 32ed7bdf42f375f4594fa6e1e5695e3e,
         type: 3}
@@ -29127,7 +29127,7 @@ PrefabInstance:
     - target: {fileID: 5086737145682715147, guid: 32ed7bdf42f375f4594fa6e1e5695e3e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -192.1
+      value: -196
       objectReference: {fileID: 0}
     - target: {fileID: 5086737145682715147, guid: 32ed7bdf42f375f4594fa6e1e5695e3e,
         type: 3}
@@ -51173,7 +51173,7 @@ PrefabInstance:
     - target: {fileID: 7354011501099551915, guid: 58dd64393ed55064cb6107c34ed393f5,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -323
+      value: -320
       objectReference: {fileID: 0}
     - target: {fileID: 7354011501099551915, guid: 58dd64393ed55064cb6107c34ed393f5,
         type: 3}
@@ -72285,7 +72285,7 @@ PrefabInstance:
     - target: {fileID: 7354011501099551915, guid: 58dd64393ed55064cb6107c34ed393f5,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 606.9476
+      value: 581.37317
       objectReference: {fileID: 0}
     - target: {fileID: 7354011501099551915, guid: 58dd64393ed55064cb6107c34ed393f5,
         type: 3}
@@ -72300,7 +72300,7 @@ PrefabInstance:
     - target: {fileID: 7354011501099551915, guid: 58dd64393ed55064cb6107c34ed393f5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -882
+      value: -894.8147
       objectReference: {fileID: 0}
     - target: {fileID: 7354011501099551915, guid: 58dd64393ed55064cb6107c34ed393f5,
         type: 3}
@@ -77068,7 +77068,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 3ecc2a33d1853bd41b2b195329c606dc,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.9999992
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3ecc2a33d1853bd41b2b195329c606dc,
         type: 3}
@@ -77078,12 +77078,12 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 3ecc2a33d1853bd41b2b195329c606dc,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.001244861
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3ecc2a33d1853bd41b2b195329c606dc,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 7.419951e-11
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3ecc2a33d1853bd41b2b195329c606dc,
         type: 3}
@@ -77093,7 +77093,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 3ecc2a33d1853bd41b2b195329c606dc,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -0.143
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3ecc2a33d1853bd41b2b195329c606dc,
         type: 3}
@@ -84081,7 +84081,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 1ae09a28e711acc46940b6589c2f0127, type: 3}
       propertyPath: rotationSpeed
-      value: 50
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 5347145844791443438, guid: 1ae09a28e711acc46940b6589c2f0127,
+        type: 3}
+      propertyPath: health
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 5347145844791443438, guid: 1ae09a28e711acc46940b6589c2f0127,
         type: 3}
@@ -91472,8 +91477,8 @@ Transform:
   m_GameObject: {fileID: 2103134903}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -25.727406, y: 11.4, z: -139.4}
-  m_LocalScale: {x: 14.7336, y: 90.86896, z: 11.626}
+  m_LocalPosition: {x: -25.727406, y: 11.4, z: -137}
+  m_LocalScale: {x: 14.7336, y: 86.0236, z: 11.626}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 589311949}
