@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class BulletScript : MonoBehaviour
 {
-    public float speed = 65f; // How fast the bullet will shoot
-    public int damage = 2; // Bullet damage, enemies will need multiple hits
+    public float speed = 100f; // How fast the bullet will shoot
+    public int damage = 3; // Bullet damage, enemies will need multiple hits
 
     private Rigidbody rb;
 
@@ -13,7 +13,6 @@ public class BulletScript : MonoBehaviour
     {
         rb = GetComponent<Rigidbody>();
         rb.collisionDetectionMode = CollisionDetectionMode.ContinuousDynamic; // Prevents passing through objects
-        rb.velocity = transform.forward * speed; // Moves the bullet forward
         Destroy(gameObject, 12f);// Destroy after 10 sec
 
     }
